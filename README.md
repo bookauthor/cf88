@@ -12,3 +12,4 @@ Alterações:
 
 ## 13/08/2019
  ### atualizado para emenda constitucional 101
+ - Devido a mudanças estruturais significativas entre a atualização da EC 99 e 101, é possível que marcações feitas no livro sejam perdidas.
