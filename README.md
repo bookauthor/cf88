@@ -8,3 +8,7 @@ Alterações:
  ### artigo 208, palavra ETAPAS:
  - "educando, em todas as estapas da educação básica" corrigido para "educando, em todas as etapas da educação básica"
  - corrigido índice relacionado a emendas constitucionais 97, 98 e 99
+
+
+## 13/08/2019
+ ### atualizado para emenda constitucional 101
